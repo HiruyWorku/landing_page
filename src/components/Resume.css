@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  height: 100%; 
+  overflow: hidden; 
+}
+
+.resume-section {
+  padding-top: 120px;
+  width: 100%; 
+  height: 100vh; 
+  display: flex;
+  justify-content: center; 
+  align-items: flex-start; 
+  position: relative;
+  overflow: hidden; 
+  background-color: transparent;
+}
+
+.pdf-container {
+  width: 70%; 
+  height: 100%; 
+  overflow: auto; 
+  display: flex;
+  justify-content: center; 
+  align-items: flex-start; 
+  background-color: transparent;
+}
+
+.resume-image {
+  width: 100%; 
+  height: auto; 
+  display: block; 
+  background-color: transparent;
+}
+
+.resume-background {
+  position: absolute;
+  width: 120%;
+  height: 120%;
+  top: -3%;
+  left: -10%;
+  background: url('images/5.png') no-repeat center center/cover;
+  z-index: -1;
+}
+
+
