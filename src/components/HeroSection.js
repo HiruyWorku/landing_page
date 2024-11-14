@@ -52,13 +52,11 @@ const HeroSection = () => {
             transition: { duration: 1, ease: "easeOut" }
           }}
         >
-          <h1>I'm Efrata Gebremichael</h1>
+          <h1>I'm Hiruy Worku</h1>
         </motion.div>
-        <p>I’m a Software Engineer with a focus on Frontend Development and Machine Learning. I recently graduated with a Bachelor’s 
-          degree in Computer Science with minors in Data Science and Mathematics. 
-          I have developed a range of websites designed for various purposes, alongside sophisticated AI-driven marketing tool, and dynamic mobile applications.
-           With expertise in a wide range of web development technologies and a strong focus on
-           UX/UI design, I develop high-performing, visually compelling websites that deliver intuitive, user-centric experiences and seamless functionality.</p>
+        <p>My early struggles with broken home appliances made me the family's go-to troubleshooter and taught me the importance of tenacity. I built a fully functional backyard gym out of curiosity, but the real career path-shaping event was the discovery of computer science. Programming's object-oriented thinking changed the way I approached problems, 
+          converting anxiety into strategizing and perplexity into a teaching opportunity. As a sophomore studying computer science, my goal is to work as a full-stack developer with an increasing emphasis on Backend dev. , AI, and ML. For backend programming, I have practical expertise with Python, Java, C, and SQL. For frontend solutions, I have worked with JavaScript, React.js, CSS, and HTML. 
+            If I am not in front of a laptop you might find me speed training, working on some studio arts (Photography, graphic design, prototyping and freehand drawing) or catching up on some anime & animations.</p>
         <div className="hero-icons">
           <a href="https://github.com/egebremichael" target="_blank" rel="noopener noreferrer">
             <FaGithub />
