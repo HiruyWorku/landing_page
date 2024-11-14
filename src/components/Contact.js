@@ -55,7 +55,7 @@ const Contact = () => {
       >
         <h2 className="contact-title">Contact Me</h2>
         <p className="email-contact">
-          Get in touch or shoot me an email directly at <a href="mailto:ephrathafisseha@gmail.com">ephrathafisseha@gmail.com</a>
+          Get in touch or shoot me an email directly at <a href="mailto:hiruyworku00@gmail.com">hiruyworku00@gmail.com</a>
         </p>
         <form onSubmit={handleSubmit}>
           <div className="input-container">
