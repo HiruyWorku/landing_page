@@ -58,10 +58,10 @@ const HeroSection = () => {
           converting anxiety into strategizing and perplexity into a teaching opportunity. As a sophomore studying computer science, my goal is to work as a full-stack developer with an increasing emphasis on Backend dev. , AI, and ML. For backend programming, I have practical expertise with Python, Java, C, and SQL. For frontend solutions, I have worked with JavaScript, React.js, CSS, and HTML. 
             If I am not in front of a laptop you might find me speed training, working on some studio arts (Photography, graphic design, prototyping and freehand drawing) or catching up on some anime & animations.</p>
         <div className="hero-icons">
-          <a href="https://github.com/egebremichael" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/HiruyWorku" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/efratagebremichael" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/hiruyworku/" target="_blank" rel="noopener noreferrer">
             <FaLinkedin />
           </a>
         </div>
