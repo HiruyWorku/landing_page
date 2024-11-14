@@ -8,10 +8,10 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-icons">
-        <a href="https://github.com/egebremichael" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/HiruyWorku" target="_blank" rel="noopener noreferrer">
           <FaGithub className="icon" />
         </a>
-        <a href="https://linkedin.com/in/efratagebremichael" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/hiruyworku/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="icon" />
         </a>
         <a href="mailto:efgebremichael@gmail.com">
