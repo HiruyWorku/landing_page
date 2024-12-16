@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-header">
-        <Link to="/" className="navbar-initials">HS</Link>
+        <Link to="/" className="navbar-initials">HW</Link>
       </div>
       <ul className="navbar-list">
         {location.pathname !== '/projects' && (
