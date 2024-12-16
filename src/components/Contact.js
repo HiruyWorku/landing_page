@@ -15,7 +15,7 @@ const Contact = () => {
     setError('');
   
     try {
-      const response = await fetch('https://efratagebremichael.com/api/send-email', {  
+      const response = await fetch('https://https://hiruyworku.github.io/landing_page//api/send-email', {  
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

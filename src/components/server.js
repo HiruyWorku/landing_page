@@ -5,7 +5,7 @@ const cors = require('cors');
 const app = express();
 
 app.use(cors({
-    origin: 'https://efratagebremichael.com',
+    origin: 'https://hiruyworku.github.io/landing_page/',
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type'],
 }));
@@ -23,14 +23,14 @@ app.post('/api/send-email', async (req, res) => {
     const transporter = nodemailer.createTransport({
         service: 'Gmail',
         auth: {
-            user: 'efgebremichael@gmail.com', 
+            user: 'hiruyworku00@gmail.com', 
             pass: 'dxjj pemv kclv hskc', 
         },
     });
 
     const mailOptions = {
         from: `${name} <${email}>`, 
-        to: 'efgebremichael@gmail.com', 
+        to: 'hiruyworku00@gmail.com', 
         subject: `New message from ${name} <${email}>`,
         text: message             
     };
